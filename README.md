@@ -3,9 +3,9 @@
 
 ## Domain : Data science intern
 
-### Task 1: Fake News Detection
-### Technology : Python, Pandas, Sklearn
-### Code Editor: Google Colab
+#### Task 1: Fake News Detection
+#### Technology : Python, Pandas, Sklearn
+#### Code Editor: Google Colab
 
 
 ## Download Dataset Form Here 
